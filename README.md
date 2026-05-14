@@ -53,4 +53,9 @@ To run this project locally, you will need **Android Studio** (Ladybug or newer)
     * Sync the project with Gradle files and deploy to an emulator or physical device (Min API: 26).
 
 ---
+## Download App
+Click the badge below to download the latest stable APK:
 
+[![Download APK] 📥](https://github.com/Sufyanmd/Arogya-Nidhi/releases/tag/v1.0.0)
+
+> **Note:** You may need to enable "Install from Unknown Sources" in your Android settings to install this build.
