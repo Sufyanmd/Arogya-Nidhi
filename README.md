@@ -37,7 +37,7 @@ To run this project locally, you will need **Android Studio** (Ladybug or newer)
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/sufyanmd/Arogya-Nidhi.git
+    git clone https://github.com/Sufyanmd/Arogya-Nidhi.git
     ```
 
 2.  **Firebase Configuration:**
