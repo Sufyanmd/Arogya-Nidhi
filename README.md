@@ -53,6 +53,18 @@ To run this project locally, you will need **Android Studio** (Ladybug or newer)
     * Sync the project with Gradle files and deploy to an emulator or physical device (Min API: 26).
 
 ---
+
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/830019be-3f73-4c5a-880a-b2d3b4410af9
+
+
+
+
+
+
 ## Download App
 Click the badge below to download the latest stable APK:
 
